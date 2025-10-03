@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|d:\\sem 4\\web application\\final assignment\\nepstudy\\pages\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|d:\\sem 4\\web application\\final assignment\\nepstudy\\pages\\courselist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\courselist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|d:\\sem 4\\web application\\final assignment\\nepstudy\\pages\\landing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\landing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|d:\\sem 4\\web application\\final assignment\\nepstudy\\pages\\coursedetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\coursedetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|d:\\sem 4\\web application\\final assignment\\nepstudy\\pages\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|d:\\sem 4\\web application\\final assignment\\nepstudy\\pages\\studentdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\studentdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|d:\\sem 4\\web application\\final assignment\\nepstudy\\pages\\managecourses.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\managecourses.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|d:\\sem 4\\web application\\final assignment\\nepstudy\\pages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|d:\\sem 4\\web application\\final assignment\\nepstudy\\pages\\landing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\landing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|d:\\sem 4\\web application\\final assignment\\nepstudy\\pages\\editcourse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\editcourse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|d:\\sem 4\\web application\\final assignment\\nepstudy\\pages\\courselist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\courselist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|d:\\sem 4\\web application\\final assignment\\nepstudy\\pages\\coursedetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\coursedetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|d:\\sem 4\\web application\\final assignment\\nepstudy\\pages\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|d:\\sem 4\\web application\\final assignment\\nepstudy\\pages\\managecourses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\managecourses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|d:\\sem 4\\web application\\final assignment\\nepstudy\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|d:\\sem 4\\web application\\final assignment\\nepstudy\\pages\\studentdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\studentdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\pages\\admin\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\admin\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\pages\\admin\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\admin\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\pages\\admin\\editcourse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C178F34C-63D9-4E82-97CE-8F2A430F4DC5}|NepStudy.csproj|solutionrelative:pages\\admin\\editcourse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditCourse.aspx.cs",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\EditCourse.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\EditCourse.aspx.cs",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\EditCourse.aspx.cs",
+              "RelativeToolTip": "Pages\\EditCourse.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T21:03:34.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseList.aspx.cs",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\CourseList.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\CourseList.aspx.cs",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\CourseList.aspx.cs",
+              "RelativeToolTip": "Pages\\CourseList.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:50:26.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDashboard.aspx.cs",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\StudentDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\StudentDashboard.aspx.cs",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\StudentDashboard.aspx.cs",
+              "RelativeToolTip": "Pages\\StudentDashboard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:13:27.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\Login.aspx.cs",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\Login.aspx.cs",
+              "RelativeToolTip": "Pages\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:35:51.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageCourses.aspx.cs",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\ManageCourses.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\ManageCourses.aspx.cs",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\ManageCourses.aspx.cs",
+              "RelativeToolTip": "Pages\\ManageCourses.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:16:39.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "Pages\\AdminDashboard.aspx",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\AdminDashboard.aspx",
+              "RelativeToolTip": "Pages\\AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-29T19:15:14.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseDetail.aspx",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\CourseDetail.aspx",
+              "RelativeDocumentMoniker": "Pages\\CourseDetail.aspx",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\CourseDetail.aspx",
+              "RelativeToolTip": "Pages\\CourseDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-29T19:14:48.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseList.aspx",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\CourseList.aspx",
+              "RelativeDocumentMoniker": "Pages\\CourseList.aspx",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\CourseList.aspx",
+              "RelativeToolTip": "Pages\\CourseList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-29T19:14:38.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Landing.aspx",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\Landing.aspx",
+              "RelativeDocumentMoniker": "Pages\\Landing.aspx",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\Landing.aspx",
+              "RelativeToolTip": "Pages\\Landing.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-29T19:12:16.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\AdminDashboard.aspx.cs",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "Pages\\AdminDashboard.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:00:57.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Landing.aspx.cs",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\Landing.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\Landing.aspx.cs",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\Landing.aspx.cs",
+              "RelativeToolTip": "Pages\\Landing.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T21:03:39.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseDetail.aspx.cs",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\CourseDetail.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\CourseDetail.aspx.cs",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\CourseDetail.aspx.cs",
+              "RelativeToolTip": "Pages\\CourseDetail.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:51:20.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageCourses.aspx",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\ManageCourses.aspx",
+              "RelativeDocumentMoniker": "Pages\\ManageCourses.aspx",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\ManageCourses.aspx",
+              "RelativeToolTip": "Pages\\ManageCourses.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-29T19:12:54.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentDashboard.aspx",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\StudentDashboard.aspx",
+              "RelativeDocumentMoniker": "Pages\\StudentDashboard.aspx",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\StudentDashboard.aspx",
+              "RelativeToolTip": "Pages\\StudentDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-29T19:13:17.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutUs.aspx",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\AboutUs.aspx",
+              "RelativeDocumentMoniker": "Pages\\AboutUs.aspx",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\AboutUs.aspx",
+              "RelativeToolTip": "Pages\\AboutUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-29T19:11:15.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditCourse.aspx",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\Admin\\EditCourse.aspx",
+              "RelativeDocumentMoniker": "Pages\\Admin\\EditCourse.aspx",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\Admin\\EditCourse.aspx",
+              "RelativeToolTip": "Pages\\Admin\\EditCourse.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-29T19:16:15.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\Login.aspx",
+              "RelativeDocumentMoniker": "Pages\\Login.aspx",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\Login.aspx",
+              "RelativeToolTip": "Pages\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-29T19:11:33.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\Admin\\Register.aspx",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Register.aspx",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\Admin\\Register.aspx",
+              "RelativeToolTip": "Pages\\Admin\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-29T19:11:51.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-29T19:31:44.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\Admin\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Register.aspx.cs",
+              "ToolTip": "D:\\Sem 4\\Web Application\\Final Assignment\\NepStudy\\Pages\\Admin\\Register.aspx.cs",
+              "RelativeToolTip": "Pages\\Admin\\Register.aspx.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAcwG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:39:33.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
